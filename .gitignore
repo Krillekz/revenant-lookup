@@ -1,0 +1,3 @@
+# download artifacts are published as release assets
+*.exe
+*.blockmap
