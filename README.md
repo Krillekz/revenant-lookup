@@ -3,7 +3,7 @@
 A fast, private Roblox player lookup utility for Windows. No Roblox login, no cookies, no
 telemetry — it reads public endpoints and puts the useful parts on one screen.
 
-**[Download the latest beta](https://github.com/Krillekz/revenant-lookup/releases/latest)**
+**[Download the public beta](https://github.com/Krillekz/revenant-lookup/releases)**
 
 ![Revenant Lookup dashboard](screenshots/beta-03-profile.png)
 
